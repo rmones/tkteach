@@ -15,7 +15,7 @@ Features
 - Allows multiple categorizations per image
 - Category labels can be reviewed from within the application
 
-![Screenshot](tkteach/screenshot.PNG "tkteach screenshot")
+![Screenshot](screenshot.PNG)
 
 About
 -----------
